@@ -1,3 +1,1 @@
-# GitWebsite_Test
-
-This is a test, ignore this
+# This is a test to make a git website, ignore this repo
